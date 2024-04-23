@@ -1,5 +1,5 @@
 # Student-and-Course
-This software was created by coding 2 classes, "student" and "course", using a test driven development approach. There were three JUnit test suites provided that ensured the functionality of the code.
+This software was created by coding 2 classes with Java, "student" and "course", using a test driven development approach. There were three JUnit test suites provided that ensured the functionality of the code.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   The student class created a student object with the properties (instance variables) of first and last name (string), student ID number (int), attempted credits (double), passing credits (double), total grade quality points (double), and bear bucks balance (double; Washington University's campus currency). This class have several getter methods, allowing users to read the name of a student object, the ID number, the total attempted credits, the total passing credits, and the current bear bucks balance. Additioanlly, other methods included: 
 - submitting a final grade (based on credits and numeric grade value)
